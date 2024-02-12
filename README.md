@@ -1,0 +1,2 @@
+# hzinfo
+hanzi infomation
